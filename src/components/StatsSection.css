@@ -1,0 +1,28 @@
+.stats-section {
+    margin-top: -10%;
+    width: 40%;
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+    background-color: white;
+  }
+  .stat {
+    text-align: center;
+  }
+  .stat h2 {
+    font-size: 36px;
+  }
+  .stat p {
+    font-size: 18px;
+    color: #555;
+  }
+  .a{
+    color: rgba(209, 209, 13, 0.619);
+  }
+  .b{
+    color: rgb(53, 180, 230);
+  }
+  .c{
+    color: orange;
+  }
+  

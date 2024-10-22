@@ -1,0 +1,66 @@
+.hero {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+    background-color: #f9f9f9;
+    margin-top: -10%;
+  }
+  .hero-text {
+    max-width: 50%;
+  }
+  .hero h1 {
+    font-size: 48px;
+    font-weight: bold;
+  }
+  .hero p {
+    font-size: 18px;
+    margin-top: 20px;
+    color: #555;
+  }
+  .hero-buttons {
+    margin-top: 30px;
+  }
+  .start-trial-btn, .how-it-works-btn {
+    padding: 10px 20px;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+    margin-right: 10px;
+  }
+  .start-trial-btn {
+    background-color: #007bff;
+    color: white;
+  }
+  .how-it-works-btn {
+    background-color: transparent;
+    border: 1px solid #007bff;
+    color: #007bff;
+  }
+  .hero-images {
+    margin-top: 42%;
+    position: relative;
+    max-width: 50%;
+  }
+  .hero-img {
+    width: 540px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+  }
+  .rocket-img {
+    width: 100px;
+    position: absolute;
+    top: 0;
+    right: 100px;
+  }
+  .trophy-img {
+    width: 100px;
+    position: absolute;
+    bottom: 0;
+    left: 50px;
+  }
+  .th{
+    font-weight: bolder;
+  }
+  
